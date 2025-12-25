@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33529.622
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{0D4E8EA5-35C6-4A4C-AF31-CD85E2258392}") = "Crypter Fud Bypass", "Crypter Fud Bypass\Crypter Fud Bypass.vbproj", "{CD6DD969-892B-43E7-8067-4F7B24B0ECFA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CD6DD969-892B-43E7-8067-4F7B24B0ECFA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD6DD969-892B-43E7-8067-4F7B24B0ECFA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD6DD969-892B-43E7-8067-4F7B24B0ECFA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD6DD969-892B-43E7-8067-4F7B24B0ECFA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5397EA78-5EF9-4216-AC0F-5B5877274302}
+	EndGlobalSection
+EndGlobal
